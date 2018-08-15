@@ -27,4 +27,9 @@ public class UserDaoImpl implements UserDao {
 		return userMap.get(id);
 	}
 
+	@Override
+	public Map<Long, User> getAllUsers() {
+		return userMap;
+	}
+
 }
