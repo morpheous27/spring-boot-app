@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: nitin
+Build-Jdk: 10.0.1
+Implementation-Title: restapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.nitin
+Implementation-URL: http://maven.apache.org/spring-rest-app
+Created-By: Maven Integration for Eclipse
+
